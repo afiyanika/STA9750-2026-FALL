@@ -1,0 +1,70 @@
+---
+title: "Afiya Afnin Anika"
+---
+
+::: {.hero}
+
+## Data Analytics • Statistical Computing • Data Visualization
+
+Hello! I'm **Afiya Afnin Anika**, a graduate student at **Baruch College** studying **Data Analytics**.
+
+This website serves as my academic portfolio for **STA 9750: Statistical Computing**. It showcases my mini-projects, analytical work, and progress throughout the semester.
+
+:::
+
+## Course Projects
+
+::: {.project-grid}
+
+::: {.project-card}
+### Mini-Project 01
+
+Data analysis and statistical computing project.
+
+**Coming Soon**
+:::
+
+::: {.project-card}
+### Mini-Project 02
+
+Exploratory analysis and visualization project.
+
+**Coming Soon**
+:::
+
+::: {.project-card}
+### Mini-Project 03
+
+Applied statistical computing project.
+
+**Coming Soon**
+:::
+
+::: {.project-card}
+### Mini-Project 04
+
+Final mini-project for STA 9750.
+
+**Coming Soon**
+:::
+
+:::
+
+## About This Portfolio
+
+This site documents my work in **R, Quarto, data analysis, visualization, and statistical computing** throughout STA 9750 at Baruch College.
+
+As the semester progresses, each mini-project will be added to this portfolio with its analysis, visualizations, methodology, and findings.
+
+```{r}
+#| include: false
+1+1
+```
+
+---
+
+<div class="last-updated">
+
+Last Updated: `r format(Sys.time(), "%B %d, %Y at %I:%M %p")`
+
+</div>
